@@ -2,7 +2,7 @@ title:             Bergin's Blog
 email:             bergin.panimayam@gmail.com
 description:       My journey with Salesforce
 author:            Bergin Panimayam
-baseurl:           "/startbootstrap-clean-blog-jekyll"
+baseurl:           "/blog"
 url:               "http://berginpanimayam.github.io"
 
 # Social Profiles
